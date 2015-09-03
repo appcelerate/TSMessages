@@ -5,7 +5,7 @@
         "borderHeight": 0,
         "buttonBackgroundImageName": "NotificationButtonBackground.png",
         "buttonTitleTextColor": "#FFFFFF",
-        "buttonTitleShadowColor": "#67B759",
+        "buttonTitleShadowColor": "#FFFFFF",
         "buttonTitleShadowOffsetX": 0,
         "buttonTitleShadowOffsetY": 0,
         "contentFontSize": 12,
@@ -16,7 +16,7 @@
         "shadowOffsetY": 0,
         "textColor": "#FFFFFF",
         "titleFontSize": 14,
-        "backgroundColor": "#76CF67"
+        "backgroundColor": "#5CC770"
     },
     "message": {
         "backgroundImageName": "NotificationBackgroundMessage.png",
